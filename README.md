@@ -1,4 +1,5 @@
-![Kosmos Cover](https://github.com/Independent-Society-of-Knowledge/Kosmos/assets/76442288/9f330053-b5b8-4e92-91ed-c303d2dbcdb5)
+![image](https://github.com/Independent-Society-of-Knowledge/Kosmos/assets/76442288/8342d671-0de1-4df8-ac2f-83fe0c617a69)
+
 # Kosmos
 
 Kosmos is a comprehensive numerical framework designed for general relativity, cosmology, and astronomy simulations. Developed by the Independent Society of Knowledge (ISK), this open-source project aims to provide researchers, educators, and enthusiasts with a powerful platform for exploring the vast realms of these disciplines.
